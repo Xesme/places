@@ -13,7 +13,50 @@
     <link rel="stylesheet" href="css/styles.css" media="screen" title="no title" charset="utf-8">
   </head>
   <body>
-    
+    <div class="container">
+      <h1>Enter places traveled below</h1>
 
+      <div class="row">
+        <div class="col-md-6">
+          <h2>Add location:</h2>
+          <form id="new-location">
+            <div class="form-group">
+              <label for="new-place">Location name:</label>
+              <input type="text" class="form-control" id="new-place">
+            </div>
+            <div class="form-group">
+              <label for="date-travel">Date of travel:</label>
+              <input id="new-date" class="form-control" type="date">
+            </div>
+            <div class="form-group">
+              <label for="new-landmark">Landmarks visted: <br>(please seperate with commas)</label>
+              <input type="text" class="form-control" id="new-landmark">
+            </div>
+            <div class="form-group">
+              <label for="new-tip">Tips on future travel:</label><br>
+              <!-- <input type="text" class="form-control" id="new-tip"> -->
+              <textarea class="form-control"  id="new-tip" name="tip" rows="8" >type here</textarea>
+            </div>
+
+
+            <button type="submit" class="btn">Add</button>
+          </form>
+          <div class="output-box">
+
+            <br>
+            <ul id="list-places">
+
+            </ul>
+            <div class="output-box-hid">
+              <ol id="output-landmarks">
+              </ol>
+              <br>
+            </div>
+            <!-- <div class="output-info">
+            </div> -->
+          </div>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
