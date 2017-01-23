@@ -25,7 +25,7 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 |user inputs info of a place they've visited |"Hawaii"   | "Hawaii"   |
 |user inputs place and date of travel |"Hawaii 2017"   | "Hawaii 2017"   |
 |user inputs info on locations at the place they visited | "Kuauai"  | "Location: Kuauai"  |
-|user inputs multiple locations |"Kuauai, shark cove, coffee plantation"   |"Locations: Kuauai, shark cove, coffee plantation" |
+|user inputs multiple landmarks |"Kuauai, shark cove, coffee plantation"   |"Landmarks: Kuauai, shark cove, coffee plantation" |
 |user inputs helpful tips |"Rent a bike from the local named bob"  |"Tips:  Rent a bike from the local named bob" |
 
 
