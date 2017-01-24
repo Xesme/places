@@ -1,22 +1,21 @@
-# _{Application Name}_
+# Places Application
 
-#### _{Brief description of application}, {Date of current version}_
+#### _Takes users input on places they have been, 2017_
 
-#### By _**{List of contributors}**_
+#### By _**Xia Amendolara and Philip Putnam**_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_This application takes information from users about places they have traveled. There are 4 input fields (Location, DOT, Landmarks, and Tips), and the collected data is displayed below the form._
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
+* _visit [Xia's Github](https://github.com/Xesme/places.git),[Phil's Github](https://github.com/philip-putnam/places.git)_
+* _click clone or download_
+* _download the zip or open in desktop_
+* _open index.html_
+* _viola! The application should be viewable in your browser_
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
 ## Specifications:
 
@@ -32,18 +31,18 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-_{Are there issues that have not yet been resolved that you want to let users know you know?  Outline any issues that would impact use of your application.  Share any workarounds that are in place. }_
+_There are no known bugs._
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_Contact Phil or Xia!_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_We used HTML, CSS, javascript, jQuery, and bootstrap to make this application _
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*This application features MIT licensing*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_Xia Amendolara, Philip Putnam_**
