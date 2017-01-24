@@ -6,6 +6,16 @@ ol {
   list-style: none;
 }
 
-.output-hidden {
+/*.output-box-hid {
+  display: none;
+}*/
+
+#list-places {
+  color: blue;
+
+}
+
+#list-places:hover {
+  text-decoration: underline;
 
 }
